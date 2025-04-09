@@ -7,7 +7,7 @@ from kivy.uix.button import Button
 from kivy.uix.checkbox import CheckBox
 from kivy.uix.togglebutton import ToggleButton
 import random
-
+import time
 countries = ["Russia","USA","Canada","France","China","Japan","Germany","Great Britain"]
 numbears = ["784336473","343432342365675","13245633445544","68689402049","448575692294","8384858494949","473839399393"]
 ages = [ "18", "25", "30", "45", "50", "60", "70", "80", "90", "100"]
